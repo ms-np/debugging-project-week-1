@@ -6,7 +6,7 @@ Description to come
 
 ## Wireframe
 
-![wireframe](/wireframe.png)
+![wireframe](https://wireframe.cc/9uDBip)
 
 ## 0. Set-Up
 
@@ -176,4 +176,3 @@ __As a site visitor, I want to .......__
 ### CSS
 
 - [ ]
-
