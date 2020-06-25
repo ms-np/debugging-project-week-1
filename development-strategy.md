@@ -6,7 +6,7 @@ Description to come
 
 ## Wireframe
 
-![wireframe](https://wireframe.cc/9uDBip)
+https://wireframe.cc/9uDBip
 
 ## 0. Set-Up
 
@@ -36,19 +36,24 @@ __As a site visitor, I want to ....__
 
 ### Repository
 
-- [ ] developed on a branch called `....`
-
-### JS
-- [ ] 
+- developed on a branch called `part 1`
 
 ### HTML
+- Create button
+-  Link scripts.js to html
+-  Link Css to html
+-  Link the function to Button `onclick`
 
-- [ ] 
+### Js 
+-  Add logic to function to pass the assertion
+- read user input
+-  core logic
+-  display for use
+-  log for developers 
 
 ### CSS
 
-- [ ] 
-
+-  style my page
 
 ---
 
@@ -101,6 +106,35 @@ __As a site visitor, I want to .......__
 ## 4. 
 ---
 
+## 6. reverse-a-string.js
+
+> assigned to Feruz
+
+__As a site visitor, I want to ....__
+
+### Repository
+
+- developed on a branch called `part 2`
+
+
+### HTML
+- Create button
+-  Link scripts.js to html
+-  Link Css to html
+-  Link the function to Button `onclick`
+
+### Js 
+-  Add logic to function to pass the asserti
+- read user input
+-  core logic
+-  display for use
+-  log for developers 
+
+### CSS
+
+-  style my page
+
+------
 ## 7. Finishing Touches
 
 > assigned to ......
