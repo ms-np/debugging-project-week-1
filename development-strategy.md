@@ -6,7 +6,7 @@ Description to come
 
 ## Wireframe
 
-![wireframe](https://wireframe.cc/9uDBip)
+https://wireframe.cc/9uDBip
 
 ## 0. Set-Up
 
