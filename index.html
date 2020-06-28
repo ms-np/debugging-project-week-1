@@ -7,8 +7,25 @@
   <!-- Leave this here!  It renders the review buttons  -->
   <link rel="stylesheet" href="style.css">
   <script src='./review-buttons/init.js'></script>
+  <script src="./scripts/confirm-ending.js"></script>
+  <script src="./scripts/reverse-a-string.js"></script>
 </head>
 
-<body></body>
+<body>
+  <section>
+    <diV id="part1">
+      <input type="text" id="input1">
+      <input type="text" id="input2"><br>
+      <button id="button2" onclick="confirmEndingHandler()"> Confirm</button><br>
+      <div id="result1"> </div>
+      
+    </diV>
+    <diV id="part2">
+      <input type="text" id="input3"><br>
+      <button id="button1" onclick="reverseStringHandler() "> Reverse</button><br>
+      <div id="result2"> </div>
+    </diV>
+  </section>
+</body>
 
 </html>

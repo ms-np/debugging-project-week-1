@@ -2,8 +2,10 @@
 
 console.log('-- loading: confirmEnding');
 
-
-function confirmEnding() { }
+function confirmEnding(input1, input2) { 
+  let result = input1.endsWith(input2);
+  return result;
+}
 
 
 {
@@ -65,11 +67,20 @@ function confirmEndingHandler() {
   debugger;
 
   // read user input
-
+  const input1 = document.getElementById('input1').value;
+  const input2 = document.getElementById('input2').value;
+  const result1 = document.getElementById('result1');
+  
   // core logic
-  const result = confirmEnding(str, ending);
-
+const finalResult = confirmEnding(input1, input2);
+  
+ if(input1.endsWith(input2)){
   // display for use
-
-  // log for developers
+  result1.innerHTML = "You are Correct";
+  }else{
+  // display for use
+  result1.innerHTML = " You are not Correct";
+}
+// log for developers
+console.log(result1);
 }
