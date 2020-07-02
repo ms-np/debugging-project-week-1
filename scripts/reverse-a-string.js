@@ -3,8 +3,12 @@
 console.log('-- loading: reverseString');
 
 
-function reverseString() { }
-
+function reverseString(input3) { 
+ 
+  return input3.split("")
+  .reverse()
+  .join("");
+    }
 
 {
   console.log('-- testing: reverseString ');
@@ -45,13 +49,13 @@ function reverseString() { }
 function reverseStringHandler() {
   debugger;
 
-  // read user input
-
-  // core logic
-  const result = reverseString(str);
-
-  // display for use
-
-  // log for developers
+// read user input
+    const input3 = document.getElementById('input3').value;
+    const result2 = document.getElementById('result2');
+ // core logic
+    const finalResult = reverseString(input3); 
+// display for use
+    result2.innerHTML = finalResult;
+// log for developers
+  console.log(result2);
 }
-
