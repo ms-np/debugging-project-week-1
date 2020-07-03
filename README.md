@@ -18,17 +18,18 @@ Practical `Starter Code` exercise that introduces us to JS scripts structure and
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This section will appear later when I know nore about it
+This section will appear later when I know more about it.
 
 ### Built With
-Major frameworks that I built my project using (any add-ons/plugins are left for the acknowledgements section).  
-This section will appear later when I kknow nore about it
+Major frameworks that I built my project using (any add-ons/plugins are left for the acknowledgements section).
+
+This section will appear later when I know more about it.
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you are **reading** this, you've already made a first step.
+If you are ***reading this***, you've already made a first step.
 
 ### Prerequisites
 
@@ -74,7 +75,7 @@ const API_KEY = 'ENTER YOUR API';
 ## Usage
 
 How this project can be useful to you:
-* some text will appear later
+* some text will appear here later
 
 
 You can find the project file structure by [Project Source Code Link](https://github.com/ms-np/debugging-project-week-1)
@@ -103,7 +104,9 @@ Find out the visual [graph of the development process](https://github.com/ms-np/
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Create an Issue describing your Changes
+5. Open a Pull Request and link the Issue
+6. Assign Reviewers to the Pull Request
 
 
 
@@ -118,8 +121,8 @@ Distributed under the MIT License. See `LICENSE` [folder](https://github.com/ms-
 ## Authors
 
 Nadia - [github profile](https://github.com/ms-np)  
-Miroslav [github profile](https://github.com/miroslavveljanoski)  
-Feruz [github profile](https://github.com/Feruzteame)
+Miroslav - [github profile](https://github.com/miroslavveljanoski)  
+Feruz - [github profile](https://github.com/Feruzteame)
 
 
 
@@ -129,6 +132,7 @@ Feruz [github profile](https://github.com/Feruzteame)
 * [Github Hosting Service](https://pages.github.com)
 * [README template](https://github.com/othneildrew/Best-README-Template)
 * [HYF Repo Template](https://github.com/HackYourFutureBelgium/debugging-project-week-1)
+* [Development Strategy template](https://github.com/HackYourFutureBelgium/incremental-development/blob/master/integrate/complete-development-strategy.md)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [HTML Validator](https://validator.w3.org/nu/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)

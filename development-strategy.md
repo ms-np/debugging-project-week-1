@@ -2,7 +2,7 @@
 
 > `debugging-project-week-1`
 
-Description to come 
+The team project implemented by HYF students with the purposes of collaboration, communication, splitting the tasks, writing scripts and handlers.
 
 ## Wireframe
 
@@ -18,14 +18,13 @@ __As a fellow developer I can see the prepared repository__
 
 ### Repo
 
-1. Generate a new repo from [w3-validation-template](to come)
-2. Add a .css file & link to it in the index.html
-3. Create initial development-strategy
-4. Turn on GitHub Pages
-5. Add second collaborator
-6. Each team-member to create issues accordingly to the planned workflow and assign to themself  
-7. [some style tips 1](https://feruzteame.github.io/Open-Design-Course/about.html)
-[some style tips 2](https://murvanessa.github.io/Starter-Code/)
+1. Generate a new repo from [debugging-project-template](https://github.com/HackYourFutureBelgium/debugging-project-week-1)
+2. Create initial README file
+3. Turn on GitHub Pages
+4. Add collaborators
+5. Create initial development-strategy and assign the steps
+6. Each team member translates dev strategy tasks into issues and assign to himself 
+7. References to [some ccs style tips](https://feruzteame.github.io/Open-Design-Course/about.html) from other projects; [some css style tips 2](https://murvanessa.github.io/Starter-Code/)
 ---
  
  ## 1. confirm-ending.js
@@ -61,22 +60,22 @@ __As a site visitor, I want to ....__
 
 > assigned to Nadia
 
-__As a site visitor, I want to ......__
+__As a site visitor, I want to .....__
 
 ### Repository
 
 - [ ] developed on a branch called `......`
 
 ### JS
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### HTML
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### CSS
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ---
 
@@ -84,26 +83,69 @@ __As a site visitor, I want to ......__
 
 > assigned to Miroslav
 
-__As a site visitor, I want to .......__
+__As a site visitor, I want to ......__
 
 ### Repository
 
-- [ ] developed on a branch called `.......`
+- [ ] developed on a branch called `......`
 
 ### JS
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### HTML
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### CSS
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ---
 
-## 4. 
+## 4. find-longest-word-length.js
+
+> assigned to Miroslav
+
+__As a site visitor, I want to ......__
+
+### Repository
+
+- [ ] developed on a branch called `......`
+
+### JS
+- [ ] changes that has been made to the file within this user story
+
+### HTML
+
+- [ ] changes that has been made to the file within this user story
+
+### CSS
+
+- [ ] changes that has been made to the file within this user story
+
+---
+
+## 5.  repeat-string-num-times.js
+
+> assigned to Nadia
+
+__As a site visitor, I want to .....__
+
+### Repository
+
+- [ ] developed on a branch called `......`
+
+### JS
+- [ ] changes that has been made to the file within this user story
+
+### HTML
+
+- [ ] changes that has been made to the file within this user story
+
+### CSS
+
+- [ ] changes that has been made to the file within this user story
+
 ---
 
 ## 6. reverse-a-string.js
@@ -135,78 +177,105 @@ __As a site visitor, I want to ....__
 -  style my page
 
 ------
-## 7. Finishing Touches
+## 7. Final overall refinements (finishing touches)
 
-> assigned to ......
+> assigned to Feruz
+
+__As a perfectionist, I want everything perfect :)__
 
 ### Repository
 
-- [ ] Developed on the branch `......`
-
-- [ ] Write final, complete README
-- [ ] Make the sections "core features" and "privacy policy" responsive
+- [ ] Developed on the branch `......` <!-- if it's required -->
 - [ ] Check for styling errors with a linter & prettify code
 - [ ] Validate source code on w3 to check for any last mistakes
+<!-- - [ ] any other points you want to add -->
 
 ### README
 
-### Development strategy 
+- [ ] changes that has been made to the file within this user story
+
+### Development strategy
+
+- [ ] changes that has been made to the file within this user story
 
 ### JS
-- [ ] 
+
+- [ ] changes that has been made to the file within this user story
 
 ### HTML
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### CSS
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
-## 8. Final overall refinements
+---
+
+## 8. Final overall refinements (finishing touches)
+
+> assigned to Miroslav
+
+__As a perfectionist, I want everything perfect :)__
+
+### Repository
+
+- [ ] Developed on the branch `......` <!-- if it's required -->
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+<!-- - [ ] any other points you want to add -->
+
+### README
+
+- [ ] changes that has been made to the file within this user story
+
+### Development strategy
+
+- [ ] changes that has been made to the file within this user story
+
+### JS
+
+- [ ] changes that has been made to the file within this user story
+
+### HTML
+
+- [ ] changes that has been made to the file within this user story
+
+### CSS
+
+- [ ] changes that has been made to the file within this user story
+
+---
+
+## 9. Final overall refinements (finishing touches)
 
 > assigned to Nadia
 
-### Repository
-
-- [ ] Developed on the branch `......`
-
-### README
-
-### Development strategy 
-
-### JS
-- [ ] 
-
-### HTML
-
-- [ ] 
-
-### CSS
-
-- [ ]
-
-------
-
-## 8. Final overall refinements
-
-> assigned to ......
+__As a perfectionist, I want everything perfect :)__
 
 ### Repository
 
-- [ ] Developed on the branch `......`
+- [ ] Developed on the branch `......` <!-- if it's required -->
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+<!-- - [ ] any other points you want to add -->
 
 ### README
 
-### Development strategy 
+- [ ] changes that has been made to the file within this user story
+
+### Development strategy
+
+- [ ] changes that has been made to the file within this user story
 
 ### JS
-- [ ] 
+
+- [ ] changes that has been made to the file within this user story
 
 ### HTML
 
-- [ ] 
+- [ ] changes that has been made to the file within this user story
 
 ### CSS
 
-- [ ]
+- [ ] changes that has been made to the file within this user story
